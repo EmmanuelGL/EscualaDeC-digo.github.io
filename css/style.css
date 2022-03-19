@@ -1,0 +1,12 @@
+:root{
+    --color-first:#011826;
+    --color-second:#164659;
+    --color-third:#113740;
+    --color-fourth:#6C868C;
+}
+body{
+    background-color: var(--color-first);
+}
+nav{
+    box-shadow: 0px 5px 20px white;
+}
